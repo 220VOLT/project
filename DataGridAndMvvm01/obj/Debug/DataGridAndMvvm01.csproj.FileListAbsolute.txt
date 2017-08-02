@@ -1,0 +1,15 @@
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\bin\Debug\DataGridAndMvvm01.exe.config
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\bin\Debug\DataGridAndMvvm01.exe
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\bin\Debug\DataGridAndMvvm01.pdb
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01.csprojResolveAssemblyReference.cache
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\App.g.cs
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01_MarkupCompile.cache
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01_MarkupCompile.lref
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01.g.resources
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01.Properties.Resources.resources
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01.csproj.GenerateResource.Cache
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01.exe
+c:\users\220volt\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\DataGridAndMvvm01.pdb
+C:\Users\220VOLT\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\View.g.cs
+C:\Users\220VOLT\documents\visual studio 2015\Projects\DataGridAndMvvm01\DataGridAndMvvm01\obj\Debug\View.baml
